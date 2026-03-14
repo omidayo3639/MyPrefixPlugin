@@ -1,4 +1,0 @@
-name: MyPrefixPlugin
-version: 1.0
-main: com.example.myprefixplugin.MyPrefixPlugin
-api-version: "1.21"
